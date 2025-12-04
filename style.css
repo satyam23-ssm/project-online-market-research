@@ -104,12 +104,12 @@ body {
 .cta-band { padding: 2.5rem 0; background: #0c1830; border-top: 1px solid #1b2a49; text-align: center; }
 .cta-inner p { color: var(--muted); }
 .about-frame {
-  background: var(--card); /* dark background */
-  border: 2px solid #26354c; /* square border */
-  border-radius: 12px; /* optional: soften corners */
+  background: var(--card); 
+  border: 2px solid #26354c; 
+  border-radius: 12px; 
   padding: 1.5rem;
   margin-top: 1rem;
-  box-shadow: 0 0 10px rgba(0,0,0,0.2); /* subtle depth */
+  box-shadow: 0 0 10px rgba(0,0,0,0.2); 
   color: var(--text);
 }
 .about-frame h3 {
