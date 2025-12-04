@@ -192,23 +192,4 @@
         
 
 
-    <div class="about-frame">
-  <h3>About insightmatrix</h3>
-  <p>
-    insightmatrix is a forward-thinking online market research firm dedicated to transforming how brands understand their customers. We believe that high-quality, actionable insights shouldn't require months of waiting or astronomical budgets. Founded with the mission to democratize access to enterprise-grade research, we've built a platform and methodology that delivers speed without sacrificing rigor.
-  </p>
-  <p>
-    Our team combines decades of experience in quantitative research, behavioral psychology, and data science. We work across industries—from fast-moving consumer goods to fintech startups—helping teams at all stages validate hypotheses, launch with confidence, and optimize based on real customer feedback. Whether you're testing a new product concept, refining your messaging, or understanding market sentiment at scale, we bring a structured, no-nonsense approach to discovery.
-  </p>
-  <p>
-    What sets us apart is our commitment to quality and speed. Our proprietary panel of 250,000+ screened respondents, combined with real-time quality controls and AI-assisted analysis, means you get decision-ready insights in days, not months. We're ISO/IEC 27001 aligned, ensuring your data and your customers' privacy are treated with the highest standards. Our clients trust us because we deliver clear narratives backed by bulletproof methodology—no fluff, no jargon, just answers.
-  </p>
-  <p>
-    We're based in Solan, HP, India, with a distributed team serving brands across 35 countries. Our mission is simple: equip you with the confidence to make bold moves backed by data.
-  </p>
-</div>
-    </div>
-    <div class="container tiny">© 2025 insightmatrix</div>
-  </footer>
-</body>
-</html>
+>
